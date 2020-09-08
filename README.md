@@ -1,6 +1,6 @@
 # Bug Bash
 ## About
-This is the Bug Bash Public repository. Over here, you will **not get the source code or any assets** of the game. This is our way of letting you people in on our projects.
+This is the Bug Bash Public repository. Over here, you will **not get the source code or any assets** of the game. This is our way of letting you, our players in on our projects.
 
 ## Release Notes
 The [Projects tab](https://github.com/CoolAbhi1290/Bug-Bash-Public/projects) is a very helpful place. Once you go to the projects tab, you will be met with something like this:
