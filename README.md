@@ -5,6 +5,7 @@ This is the Bug Bash Public repository. Over here, you will **not get the source
 ## Release Notes
 The [Projects tab](https://github.com/CoolAbhi1290/Bug-Bash-Public/projects) is a very helpful place. Once you go to the projects tab, you will be met with something like this:
 ![](https://i.gyazo.com/d0230032bf8936116a2e91411469dd4c.png)
+
 Once you click on it, you will be taken to a KanBan. Over here, you can know more about the upcoming features in the mentioned version.
 
 If you can to view the KanBan of an older version, go to [Closed projects tab](https://github.com/CoolAbhi1290/Bug-Bash-Public/projects?query=is%3Aclosed) and select any older verison's card to view the changes.
