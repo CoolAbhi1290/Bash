@@ -1,4 +1,8 @@
 # Bug Bash
+
+## Version 0.33.0 Released!
+Bug Bash 0.33.0 was released on 9/9/2020. [Click here](https://www.roblox.com/games/5366020282/) to play the game now! Changelog for this version can be found [here](https://github.com/CoolAbhi1290/Bug-Bash-Public/blob/master/changelogs/0.33.0.md).
+
 ## About
 This is the Bug Bash Public repository. Over here, you will **not get the source code or any assets** of the game. This is our way of letting you, our players in on our projects.
 
