@@ -17,4 +17,7 @@ If you can to view the KanBan of an older version, go to [Closed projects tab](h
 ## Your Responsibility
 If you find any bugs/game breaking glitch/way of hacking/glitch, please report it to the [Issues tab](https://github.com/CoolAbhi1290/Bug-Bash-Public/issues). You can [click here](https://github.com/CoolAbhi1290/Bug-Bash-Public/issues/new) to create a new issue which will be resolved sooner or later. Please make sure to check for duplicate issues before posting.
 
+## Credits
+You can find the credits [here](https://github.com/CoolAbhi1290/Bug-Bash-Public/blob/master/CREDITS.md). Everyone who works on this porject are awesome. Show love :)
+
 \- [CoolAbhi1290](http://coolabhi1290.epizy.com/)
