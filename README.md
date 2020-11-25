@@ -1,4 +1,4 @@
-# Bug Bash
+# Bash
 
 ## Version 0.36.0 Released!
 Bug Bash 0.36.0 is now out! [Click here](https://www.roblox.com/games/5366020282/) to play the game now! Changelog for this version can be found [here](https://github.com/CoolAbhi1290/Bug-Bash-Public/blob/master/changelogs/0.36.0.md).
@@ -19,5 +19,8 @@ If you find any bugs/game breaking glitch/way of hacking/glitch, please report i
 
 ## Credits
 You can find the credits [here](https://github.com/CoolAbhi1290/Bug-Bash-Public/blob/master/CREDITS.md). Everyone who works on this porject are awesome. Show love :)
+
+## Name Change
+Bash, formerly known as Bug Bash has now been changed to just **Bash**.
 
 \- [CoolAbhi1290](http://coolabhi1290.epizy.com/)
