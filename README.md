@@ -1,26 +1,29 @@
 # Bash
+*Not to be confused with [Bash, the terminal language](https://www.gnu.org/software/bash/)!*
 
-## Version 0.36.0 Released!
-Bash 0.36.0 is now out! [Click here](https://www.roblox.com/games/5366020282/) to play the game now! Changelog for this version can be found [here](https://github.com/CoolAbhi1290/Bash/blob/master/changelogs/0.36.0.md).
+## About Bash
+**Bash** is a [Roblox](https://www.roblox.com/) game where you fight other people in various maps, game modes, and team modes. Bash is currently in Alpha, meaning that there may be drastic changes to the gameplay and the game's purpose itself. The game itself cannot be played at the moment because however, the Roblox page can be viewed [here](https://www.roblox.com/games/5366020282/).
 
-## About
-This is the Bash Public repository. Over here, you will **not get the source code or any assets** of the game. This is our way of letting you, our players in on our projects.
+Bash, formerly known as *Bug Bash*, is in Alpha. In this stage of development, we are still fiddling around with the purpose of the game, and still building the core features of the game. We are, however looking forward to moving onto Betas, where we will experiments around with features, and add new content. Then, we will seek to move out of the Beta and into the release (at which point, we will let normal users start playing the game).
 
-## Release Notes
-The [Projects tab](https://github.com/CoolAbhi1290/Bash/projects) is a very helpful place. Once you go to the projects tab, you will be met with something like this:
-![](https://i.gyazo.com/d0230032bf8936116a2e91411469dd4c.png)
+## About This Repo
+The purpose of this repo is mainly for bug reports and insights. We want to share what we are doing with the world, and this is the best way to do it. Please do note, you will not find any assets of the game itself in the repository.
 
-Once you click on it, you will be taken to a KanBan. Over here, you can know more about the upcoming features in the mentioned version.
+## Reporting Bugs/Issue
+You are expected to report bug and issue titles in this format: `[Issue] This is an issue`, or `[Bug] This is a bug`. The difference between an issue and a bug is that an issue is working as implemented, however should not be done so that way. And a bug is something not behaving as intended.
+- [Create new bug report](https://github.com/CoolAbhi1290/Bash/issues/new/choose)
+- [View open bugs](https://github.com/CoolAbhi1290/Bash/issues?q=is%3Aopen+is%3Aissue)
+- [View closed bugs](https://github.com/CoolAbhi1290/Bash/issues?q=is%3Aissue+is%3Aclosed)
 
-If you can to view the KanBan of an older version, go to [Closed projects tab](https://github.com/CoolAbhi1290/Bash/projects?query=is%3Aclosed) and select any older verison's card to view the changes.
+## View Projects
+By viewing projects, you can get an insight into what's being made and added to the game.
+- [View open projects](https://github.com/CoolAbhi1290/Bash/projects?query=is%3Aopen) (there normally is only one; i.e. the next version)
+- [View closed projects](https://github.com/CoolAbhi1290/Bash/projects?query=is%3Aclosed)
 
-## Your Responsibility
-If you find any bugs/game breaking glitch/way of hacking/glitch, please report it to the [Issues tab](https://github.com/CoolAbhi1290/Bash/issues). You can [click here](https://github.com/CoolAbhi1290/Bash/issues/new) to create a new issue which will be resolved sooner or later. Please make sure to check for duplicate issues before posting.
+## Latest Version
+Bash v0.36.0-alpha is the latest public version.
+- [View the changelog](https://github.com/CoolAbhi1290/Bash/blob/master/changelogs/0.36.0.md)
+- [View the project](https://github.com/CoolAbhi1290/Bash/projects/4)
 
 ## Credits
-You can find the credits [here](https://github.com/CoolAbhi1290/Bash/blob/master/CREDITS.md). Everyone who works on this porject are awesome. Show love :)
-
-## Name Change
-Bash, formerly known as Bug Bash has now been changed to just **Bash**.
-
-\- [CoolAbhi1290](http://coolabhi1290.epizy.com/)
+You can view the contribution of people in [the credits page](https://github.com/CoolAbhi1290/Bash/blob/master/CREDITS.md).
