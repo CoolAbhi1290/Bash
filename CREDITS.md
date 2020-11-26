@@ -7,8 +7,9 @@
 	- UI concept designer
 	- Map builder
 	- 3D modeler
+	- Gameplay designer
 - **Find Me**
-	- Website: CoolAbhi1290.github.io
+	- Website: [coolabhi1290.github.io](https://coolabhi1290.github.io)
 	- Twitter: [@coolabhi1290](https://twitter.com/coolabhi1290)
 
 ## PancakeToes
@@ -16,6 +17,6 @@
 	- Co-Owner
 	- Weapon concept designer
 	- Map concept designer
+	- Co-gameplay designer
 - **Find Me**
-	- Discord: PancakeToes #9272
-	- Twitter: [@12MilePP](https://twitter.com/12MilePP)
+	- Twitter: [@12MilePP](https://twitter.com/12MilePP) *ah yes, very professional*
